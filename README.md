@@ -10,7 +10,8 @@
     - AI HUB 데이터 활용(뉴스 음성 데이터)
     - Faster_Whisper 이용해 텍스트로 변환
     - 주파수 분석
-    - transformer/koBart 이용해 문서 요약 및 키워드 추출
+    - 어텐션을 이용한 텍스트 요약
+    - BERTopic(토픽 모델링)
 
 3. 이미지 처리 프로젝트
 
