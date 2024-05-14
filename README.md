@@ -12,7 +12,11 @@
     - 키워드 추출(with Attention / KeyBert)
     - 토픽 모델링(BERTopic)
 
-3. 이미지 처리 프로젝트
+3. 이미지 프로젝트
+    - 방향성 : 데이터의 불균형 극복 및 모델 성능 향상
+    - 캐글 데이터 활용(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
+    - TrivialAugmentWide 적용
+    - VIT 모델 사용
 
 
  
