@@ -13,10 +13,12 @@
     - 토픽 모델링(BERTopic)
 
 3. 이미지 프로젝트
+    - 주제 : 화가 50인 작품 분류
     - 방향성 : 데이터의 불균형 극복 및 모델 성능 향상
-    - 캐글 데이터 활용(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
-    - TrivialAugmentWide 적용
-    - VIT 모델 사용
+    - 캐글 데이터 활용 (https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
+    - 데이터 불균형 해소를 위해 데이터 다양한 증강법 사용
+      ex) TrivialAugmentWide / Resige / RandomPerspective / CenterCrop / GaussianBlur / RandomHorizontalFlip / Normalize
+    - 사용한 모델 : ViT / LoRA-ViT
 
 
  
