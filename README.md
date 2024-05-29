@@ -17,9 +17,10 @@
     - 주제 : 생성형 AI 작품을 구별하기 위한 50인 작가의 작품 분류 프로젝트
     - 방향성 : 데이터의 불균형 극복 및 모델 성능 향상
     - 캐글 데이터 활용 (https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
-    - 데이터 불균형 해소를 위해 데이터 다양한 증강법 / 클래스 가중치 사용
-      ex) TrivialAugmentWide / Resige / RandomPerspective / CenterCrop / GaussianBlur / RandomHorizontalFlip / Normalize
-      ex) CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용
+    - 데이터 불균형 해소를 위해 데이터 다양한 증강법 
+      - ex) TrivialAugmentWide / Resige / RandomPerspective / CenterCrop / GaussianBlur / RandomHorizontalFlip / Normalize
+    - 클래스 가중치 사용
+      - ex) CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용
     - 사용한 모델 : ResNet50 / ViT
 
 
