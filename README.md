@@ -19,6 +19,7 @@
     - 캐글 데이터 활용 (https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
     - 데이터 불균형 해소를 위해 데이터 다양한 증강법 
       - ex) TrivialAugmentWide / Resige / RandomPerspective / CenterCrop / GaussianBlur / RandomHorizontalFlip / Normalize
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/638ff65a-4aed-4f52-b6cc-0c493dc2d200)
     - 클래스 가중치 사용
       - ex) CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용
     - 사용한 모델 : ResNet50 / ViT
