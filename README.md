@@ -23,6 +23,8 @@
     - 클래스 가중치 사용
       - ex) CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용
     - 사용한 모델 : ResNet50 / ViT
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/392e9c0d-419c-4ed3-aac3-23075ac6a20a)
+
 
 
  
