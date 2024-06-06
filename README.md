@@ -3,12 +3,12 @@
 1. 텍스트 마이닝 프로젝트
     - 주제 : 백종원의 프렌차이즈 분석
     - 방향성 : 다양한 분야의 상인들에게 시장 분석과 성공 요인을 도출해 드리자
-      ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/d04946eb-aa58-4225-a4bc-894bc0a8fc6b)
+       ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/d04946eb-aa58-4225-a4bc-894bc0a8fc6b)
     - 데이터 : 유튜브/네이버 리뷰 셀레니움을 통해 크롤링
     - 한식/중식/양식/일식/카페 카테고리별 키워드 분석
-      ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/4955a2c8-c53e-40e9-858b-f169e8ed4450)
+       ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/4955a2c8-c53e-40e9-858b-f169e8ed4450)
     - 토픽 모델링(LDA)
-      ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/5fb037fe-b127-4f7e-b9f3-0df817545ad6)
+       ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/5fb037fe-b127-4f7e-b9f3-0df817545ad6)
 
 
 2. 자연어 처리 / 음성인식 프로젝트
@@ -20,7 +20,7 @@
        ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/01b4cb75-d081-4e16-84b8-07152a249752)
     - 키워드 추출(with Attention / KeyBert)
        ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/df925252-1518-4869-998f-601b5ea56b16)
-      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/c0b35df6-5695-4bac-bec8-65e20955b528)
+       ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/c0b35df6-5695-4bac-bec8-65e20955b528)
     - 토픽 모델링(BERTopic)
        ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/2d32674a-397a-4ce0-8cd1-902cd2731471)
 
