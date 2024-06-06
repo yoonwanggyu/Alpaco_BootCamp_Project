@@ -8,10 +8,17 @@
 
 2. 자연어 처리 / 음성인식 프로젝트
     - 주제 : 도파밍된 현대인들에게 필요한 긴 영상에서의 자동 키워드/토픽 추출 프로세스
-    - AI HUB 데이터 활용(뉴스 음성/텍스트 데이터)
+    - 방향성 : 음성 데이터 -> 텍스트 데이터로 변환 -> 자동 키워드 / 토픽 추출 서비스 예상
+    - 데이터 : AI HUB (뉴스 음성/텍스트 데이터)
     - Faster_Whisper 이용해 텍스트로 변환
+    - 키워드 VS 토픽
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/01b4cb75-d081-4e16-84b8-07152a249752)
     - 키워드 추출(with Attention / KeyBert)
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/df925252-1518-4869-998f-601b5ea56b16)
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/c0b35df6-5695-4bac-bec8-65e20955b528)
     - 토픽 모델링(BERTopic)
+      - ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/2d32674a-397a-4ce0-8cd1-902cd2731471)
+
 
 4. 이미지 프로젝트
     - 주제 : 생성형 AI 작품을 구별하기 위한 50인 작가의 작품 분류 프로젝트
