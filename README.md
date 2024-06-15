@@ -25,7 +25,7 @@
        ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/2d32674a-397a-4ce0-8cd1-902cd2731471)
 
 
-4. 이미지 프로젝트
+3. 이미지 프로젝트
     - 주제 : 생성형 AI 작품을 구별하기 위한 50인 작가의 작품 분류 프로젝트
     - 방향성 : 데이터의 불균형 극복 및 모델 성능 향상
     - 데이터 : 캐글(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv)
@@ -40,6 +40,7 @@
        ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/986e0fb2-262d-4168-b200-24fb4cf5e6eb)
     - Demo 활용
 
+4. 객체 인식 프로젝트
 
 
  
