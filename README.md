@@ -25,7 +25,7 @@
 ## 3. Image Classification
 목차 | 설명 | 이미지 | 
 ------------|------|-------|
-**주제** | 생성형 AI 작품을 구별하기 위한 50인 작가의 작품 분류 프로젝트
+**주제** | 50인 작가의 작품 분류 
 **방향성** | 데이터의 불균형 극복 및 모델 성능 향상 
 **데이터** | 캐글(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv) 
 **주요 내용1** | 현실 반영 데이터 증강법 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/638ff65a-4aed-4f52-b6cc-0c493dc2d200)
