@@ -20,7 +20,7 @@ Alpaco Deep Learning BootCamp
  - [Image Classification](#image-classification)
  - [Semantic Segmentation](#semantic-segmentation)
 
-##  1. NLP
+## NLP
 목차 | 설명 | 이미지 | 
 ------------|------|-------|
 **주제** | 백종원의 프렌차이즈 분석
@@ -30,7 +30,7 @@ Alpaco Deep Learning BootCamp
 
 
 
-## 2. STT + NLP
+## STT + NLP
 목차 | 설명 | 이미지 | 
 ------|------|-------|
 **주제** | 도파밍된 현대인들에게 필요한 긴 영상에서의 자동 키워드/토픽 추출 프로세스
@@ -42,7 +42,7 @@ Alpaco Deep Learning BootCamp
 **모델3** | BERTopic | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/2d32674a-397a-4ce0-8cd1-902cd2731471)
 
 
-## 3. Image Classification
+## Image Classification
 목차 | 설명 | 이미지 | 
 ------------|------|-------|
 **주제** | 50인 작가의 작품 분류 
@@ -54,7 +54,7 @@ Alpaco Deep Learning BootCamp
 **결과** | 성능 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/986e0fb2-262d-4168-b200-24fb4cf5e6eb)
 
 
-## 4. Semantic Segmentation
+## Semantic Segmentation
 
 
  
