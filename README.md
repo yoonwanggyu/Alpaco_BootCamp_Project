@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=Alpaco%20Deep%20Learning%20BootCamp&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=Alpaco%20Deep%20Learning%20BootCamp&fontSize=50)
 <div align=center>
 안녕하세요!  Alpaco 딥러닝 부트캠프 9기 수료생 윤왕규 입니다!<br/>
 이곳은 4차례 진행했던 프로젝트를 담아둔 공간입니다. 지금도 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
@@ -27,7 +26,6 @@
 **방향성** | 다양한 분야의 상인들에게 시장 분석과 성공 요인을 도출해 드리자 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/d04946eb-aa58-4225-a4bc-894bc0a8fc6b)
 **데이터** | 유튜브/네이버 리뷰 -> 셀레니움을 통해 크롤링 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/4955a2c8-c53e-40e9-858b-f169e8ed4450)
 **모델** | LDA | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/5fb037fe-b127-4f7e-b9f3-0df817545ad6)
-
 
 
 ## STT + NLP
