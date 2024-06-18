@@ -1,6 +1,26 @@
-# 알파코 딥러닝 9기 프로젝트 
+<h1 align=center>
+Alpaco Deep Learning BootCamp 
+</h1>
+<div align=center>
+안녕하세요!  Alpaco 딥러닝 부트캠프 9기 수료생 윤왕규 입니다!<br/>
+이곳은 4차례 진행했던 프로젝트를 담아둔 공간입니다. 지금도 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
+</div>
 
-## 1. NLP
+## SKILLs
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+## CONTENTS
+ - [NLP](#NLP)
+ - [STT + NLP](#STT-+-NLP)
+ - [Image Classification](#Image-Classification)
+ - [Semantic Segmentation](#Semantic-Segmentation)
+
+##  1. NLP
 목차 | 설명 | 이미지 | 
 ------------|------|-------|
 **주제** | 백종원의 프렌차이즈 분석
