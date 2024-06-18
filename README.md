@@ -15,10 +15,10 @@ Alpaco Deep Learning BootCamp
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## CONTENTS
- - [NLP](#NLP)
- - [STT + NLP](#STT-+-NLP)
- - [Image Classification](#Image-Classification)
- - [Semantic Segmentation](#Semantic-Segmentation)
+ - [NLP](#nlp)
+ - [STT + NLP](#stt-+-nlp)
+ - [Image Classification](#image-classification)
+ - [Semantic Segmentation](#semantic-segmentation)
 
 ##  1. NLP
 목차 | 설명 | 이미지 | 
