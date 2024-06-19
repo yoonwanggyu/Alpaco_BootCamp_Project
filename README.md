@@ -35,7 +35,7 @@
 -----|------|
 **주제** | 동영상 뉴스의 키워드 및 토픽 추출
 **방향성** | 음성 데이터 -> 텍스트 데이터로 변환 -> 자동 키워드 / 토픽 추출 서비스 시나리오 
-**데이터** | AI HUB (뉴스 음성/텍스트 데이터) 
+**데이터** | AI HUB(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71557)
 **내용** | 혼용으로 사용되는 키워드와 토픽의 차이점을 명시하고 Bert를 Fine-Tuning하여 키워드 및 토픽 추출.
 **모델** | KeyBert, BERTopic 
 **자료** | [자연어_음성인식_프로젝트(04.15~5.06)/[알파코] NLP 음성 팀프로젝트 1조.pdf](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%EC%9E%90%EC%97%B0%EC%96%B4_%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(04.15~5.06)/%5B%EC%95%8C%ED%8C%8C%EC%BD%94%5D%20NLP%20%EC%9D%8C%EC%84%B1%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%EC%A1%B0.pdf)
