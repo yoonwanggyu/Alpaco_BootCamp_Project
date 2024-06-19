@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=Alpaco%20Deep%20Learning%20BootCamp&fontSize=50)
 <div align=center>
 안녕하세요!  Alpaco 딥러닝 부트캠프 9기 수료생 윤왕규 입니다!<br/>
-이곳은 4차례 진행했던 프로젝트를 담아둔 공간입니다. 지금도 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
+이곳은 4차례 진행했던 프로젝트를 담아둔 공간입니다. 현재 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
 </div>
 
 ## SKILLs
@@ -37,8 +37,7 @@
 **방향성** | 음성 데이터 -> 텍스트 데이터로 변환 -> 자동 키워드 / 토픽 추출 서비스 시나리오 
 **데이터** | AI HUB (뉴스 음성/텍스트 데이터) 
 **내용** | 혼용으로 사용되는 키워드와 토픽의 의미를 파악하고 Bert를 Fine-Tuning하여 키워드 및 토픽 추출.
-**모델2** | KeyBert 
-**모델3** | BERTopic 
+**모델** | KeyBert, BERTopic 
 **자료** | [자연어_음성인식_프로젝트(04.15~5.06)/[알파코] NLP 음성 팀프로젝트 1조.pdf](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%EC%9E%90%EC%97%B0%EC%96%B4_%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(04.15~5.06)/%5B%EC%95%8C%ED%8C%8C%EC%BD%94%5D%20NLP%20%EC%9D%8C%EC%84%B1%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%EC%A1%B0.pdf)
 
 ## Image Classification
