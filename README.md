@@ -20,36 +20,36 @@
  - [Semantic Segmentation](#semantic-segmentation)
 
 ## NLP
-목차 | 설명 | 이미지 | 
-------------|------|-------|
-**주제** | 백종원의 프렌차이즈 분석
-**방향성** | 다양한 분야의 상인들에게 시장 분석과 성공 요인을 도출해 드리자 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/d04946eb-aa58-4225-a4bc-894bc0a8fc6b)
-**데이터** | 유튜브/네이버 리뷰 -> 셀레니움을 통해 크롤링 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/4955a2c8-c53e-40e9-858b-f169e8ed4450)
-**모델** | LDA | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/5fb037fe-b127-4f7e-b9f3-0df817545ad6)
+목차 | 설명 |
+-----|------|
+ **주제** | 백종원 프렌차이즈 분석
+**방향성** | 다양한 분야의 상인들에게 시장 분석과 성공 요인을 도출해 드리자 
+**데이터** | 유튜브/네이버 리뷰 
+**내용** | 한식,중식,양식,일식,카페 총 5가지 분야의 리뷰들을 셀레니움을 통해 크롤링.  대표적으로 중식의 트렌드를 분석하고 토픽 모델링을 통해 각 분야의 세부적인 키워드를 도출.
+**모델** | LDA 
+**자료** | [텍마_프로젝트(03.18-04.11)/텍스트마이닝프로젝트 - 백종원성공요인.pptx](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%ED%85%8D%EB%A7%88_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(03.18-04.11)/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%EB%B0%B1%EC%A2%85%EC%9B%90%EC%84%B1%EA%B3%B5%EC%9A%94%EC%9D%B8.pptx)
 
 
 ## STT + NLP
-목차 | 설명 | 이미지 | 
-------|------|-------|
-**주제** | 도파밍된 현대인들에게 필요한 긴 영상에서의 자동 키워드/토픽 추출 프로세스
-**방향성** | 음성 데이터 -> 텍스트 데이터로 변환 -> 자동 키워드 / 토픽 추출 서비스 예상 
+목차 | 설명 | 
+-----|------|
+**주제** | 동영상 뉴스의 키워드 및 토픽 추출
+**방향성** | 음성 데이터 -> 텍스트 데이터로 변환 -> 자동 키워드 / 토픽 추출 서비스 시나리오 
 **데이터** | AI HUB (뉴스 음성/텍스트 데이터) 
-**주요 내용** | 키워드 VS 토픽 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/01b4cb75-d081-4e16-84b8-07152a249752)
-**모델1** | Faster_Whisper
-**모델2** | KeyBert | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/c0b35df6-5695-4bac-bec8-65e20955b528)
-**모델3** | BERTopic | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/2d32674a-397a-4ce0-8cd1-902cd2731471)
-
+**내용** | 혼용으로 사용되는 키워드와 토픽의 의미를 파악하고 Bert를 Fine-Tuning하여 키워드 및 토픽 추출.
+**모델2** | KeyBert 
+**모델3** | BERTopic 
+**자료** | [자연어_음성인식_프로젝트(04.15~5.06)/[알파코] NLP 음성 팀프로젝트 1조.pdf](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%EC%9E%90%EC%97%B0%EC%96%B4_%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(04.15~5.06)/%5B%EC%95%8C%ED%8C%8C%EC%BD%94%5D%20NLP%20%EC%9D%8C%EC%84%B1%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%EC%A1%B0.pdf)
 
 ## Image Classification
-목차 | 설명 | 이미지 | 
-------------|------|-------|
+목차 | 설명 
+-----|------|
 **주제** | 50인 작가의 작품 분류 
 **방향성** | 데이터의 불균형 극복 및 모델 성능 향상 
 **데이터** | 캐글(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/data?select=artists.csv) 
-**주요 내용1** | 현실 반영 데이터 증강법 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/638ff65a-4aed-4f52-b6cc-0c493dc2d200)
-**주요 내용2** | 데이터 불균형 해소 전략 : CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용 
-**모델** | ResNet, ViT | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/392e9c0d-419c-4ed3-aac3-23075ac6a20a)
-**결과** | 성능 | ![image](https://github.com/yoonwanggyu/Alpaco_Project/assets/161268939/986e0fb2-262d-4168-b200-24fb4cf5e6eb)
+**내용** | 현실 반영 데이터 증강법 활용. 데이터 불균형 해소 전략으로 CrossEntropyLoss 함수에 작품 개수에 대한 가중치 적용. ResNet과 ViT 성능 비교 분석
+**모델** | ResNet, ViT 
+**자료** | [이미지_프로젝트(05.13~05.29)/PPT.pdf](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(05.13~05.29)/PPT.pdf)
 
 
 ## Semantic Segmentation
