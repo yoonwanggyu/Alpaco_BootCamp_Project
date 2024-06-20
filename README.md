@@ -52,6 +52,14 @@
 
 
 ## Semantic Segmentation
+목차 | 설명 
+--------|--------|
+**주제** | 벼 생육이상 인식 농경 AI 모델 
+**방향성** | Drone과 트렉터를 접목한 농경 AI 서비스 구축
+**데이터** |  AI HUB(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=526) / (https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71483) / (https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71377)
+**내용** | Fine-Tuning을 통해 다분광 이미지에서 필요한 채널을 뽑아 벼 생육이상 데이터 segmentation 수행. Segmentation을 통해 저조도와 악천후에도 강건한 자율주행 AI 모델 Fine-Tuning.
+**모델** | SegFormer 
+**자료** | [객체인식_프로젝트(06.03~06.20)/발표_자료.pptx](https://github.com/yoonwanggyu/-2024-Alpaco_Project/blob/main/%EA%B0%9D%EC%B2%B4%EC%9D%B8%EC%8B%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(06.03~06.20)/%EB%B0%9C%ED%91%9C_%EC%9E%90%EB%A3%8C.pptx)
 
 
  
