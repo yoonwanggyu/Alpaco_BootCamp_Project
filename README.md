@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&fontAlignY=50&fontAlign=50&section=header&text=Alpaco%20Deep%20Learning%20BootCamp&fontSize=50)
 <div align=center>
 안녕하세요!  Alpaco 딥러닝 부트캠프 9기 수료생 윤왕규 입니다!<br/>
-이곳은 4차례 진행했던 프로젝트를 담아둔 공간입니다. 현재 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
+이곳은 4차례 진행했던 미니 프로젝트를 담아둔 공간입니다. 현재 데이터 사이언티스 직무를 위해 열심히 공부중입니다.
 </div>
 
 ## SKILLs
